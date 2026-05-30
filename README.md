@@ -30,7 +30,7 @@ A modern, full-stack desktop application built using **Java Swing** and **MySQL 
 3. This will automatically create the database `hospital_management_system` and its required tables (`login`, `employee`, `room`).
 
 ### 2. Project Execution
-1. Open this project folder in **VS Code** or **IntelliJ IDEA**.
+1. Open this project folder in **VS Code** 
 2. Make sure the `.jar` files inside the `lib/` folder are added to your Java Referenced Libraries project path.
 3. Navigate to `src/hospital/management/system/Login.java`.
 4. Right-click and click **Run Java** to start the application.
